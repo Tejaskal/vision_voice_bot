@@ -1,0 +1,1028 @@
+
+
+Q: Who is the head of the Computer Science and Engineering department?
+Q: Who is the HOD of the Computer Science and Engineering department?
+A: Doctor S. B. Patil
+
+Q: What is the designation of Doctor S. B. Patil?
+A: Professor & Head Computer Science and Engineering
+
+Q: What is the email address of Doctor S. B. Patil?
+A: Email: sbpatil@ssgmce.ac.in
+
+Q: What is the mobile number of Doctor S. B. Patil?
+A: Phone: +91 7020799970
+
+Q: What is the qualification of Doctor S. B. Patil?
+A: Doctor S. B. Patil has BE, ME, MBA, Ph.D. (VLSI- Electronics Engineering) degrees.
+
+Q: What is the area of specialization of Doctor S. B. Patil?
+A: Doctor S. B. Patil specializes in VLSI-Analog/RF/Mixed Signal and Embedded Syste Miss
+
+Q: How many years of teaching experience does Doctor S. B. Patil have?
+A: Doctor S. B. Patil has 17 years of teaching experience.
+
+Q: How many years of industrial experience does Doctor S. B. Patil have?
+A: Doctor S. B. Patil has 2 years of industrial experience.
+
+Q: What are  some courses taught by Doctor S. B. Patil?
+A: Doctor S. B. Patil teaches courses such as VLSI, Digital system Design, Electronics Devices and Circuits, Analog & Digital Integrated Circuits, and Microcontroller Applications.
+
+Q: What are  some memberships of Doctor S. B. Patil?
+A: Doctor S. B. Patil is a member of IEEE, IETE, and ISTE.
+
+Q: What are  some publications by Doctor S. B. Patil?
+A: Doctor S. B. Patil has published research papers such as Detection, Location And Picking Of The Object Based On Machine Vision, Haar Wavelet based Iris Recognition for High Security Access Environment, and Highly Secured Locker System Based On Biometric Identification.
+
+Q: What are  some research and development projects that Doctor S. B. Patil has worked on?
+A: Doctor S. B. Patil has worked on projects such as Automatic Fault Detection and Counting Mechanism and Analysis for Bhogle Automotive, Aurangabad and Transceiver IF IC Development for 5G mm Wave Radio using UMC 180nm Technology for SM Technologies Pvt.Ltd Pune.
+
+Q: Has Doctor S. B. Patil won any awards or fellowships?
+A: Yes, Doctor S. B. Patil won the first-ever national level Cadence India Design Contest and was awarded a cash prize of Rs. 1.5 lakh and recognition at the national level project competition organized by Cadence Design Syste Miss(I) Pvt. Ltd., Bangalore, INDIA and CDNLive! India in 2006.
+
+Q: How many students has Doctor S. B. Patil guided in research for their Master's degree?
+A: Doctor S. B. Patil has guided more than 15 students in research for their Master's degree.
+
+
+
+
+Q: What is the designation of Doctor N. M. Kandoi?
+A: Doctor N. M. Kandoi is an Associate Professor at Computer Science and Engineering department
+
+Q: What is the email address and mobile number of Doctor N. M. Kandoi?
+A: Email: nmkandoi@ssgmce.ac.in; Phone: +91 9422559966
+
+Q: What are the qualifications of Doctor N. M. Kandoi?
+A: Bachelor of Engineering (Computer Sci & Engg) SGBAU A Mistervati; M.S. (Computer Sci) BITS PILANI; Ph. D. SGBAU A Mistervati
+
+Q: What is the area of specialization of Doctor N. M. Kandoi?
+A: Web Technology and Security
+
+Q: How many years of teaching experience does Doctor N. M. Kandoi have?
+A: 32 years
+
+Q: What are  some courses taught by Doctor N. M. Kandoi?
+A: Programming Methodology; Operating System; Web Engineering; Computing Resource Management; File Structure and Data Processing
+
+Q: What is the membership of Doctor N. M. Kandoi?
+A: Life Member of ISTE-LM 19954
+
+Q: What are  some publications by Doctor N. M. Kandoi?
+A: 1) A Survey on Presence Cloud based solution for on demand data in wireless computing devices", International Journal of Research (IJR)" E-ISSN :2348-6848,p-ISSN:2348-795X Volume 2,Issue 10 ,OCT 2015 2) An analysis of Presence Cloud based solution for on demand data in wireless computing devices", International Journal of Research in Com.r & Information Technology(IJRCIT) Volume 1, Special Issue 1 , 2016 3) Reviewing the problem for Presence Cloud based solution for on demand data in wireless computing devices:, International Journal of Recent and Innovation Trends in Computing & Communication (IJRITTCC) ISSN :2321-8169 Volume 4, Issue 1 , Jan 2016 4) Anefficient AOP aided Information-flow-based access control model to enhance web mashup security. , World Wide Web Springer Submitted id :WWWJ-D-17-00404 , Login page at http://wwwj.edmgr.com 5) Study of different techniques of web application security and web mashup development using AOP, Intl. J. of Academic Research and Development, ISSN: 2455-4197,Volume 2; Issue 6; November 2017; Page No. 598-602 6) Study about various latest attacks and vulnerabilities to the web application and implementation of major concerns using new paradigm., Intl. J. of Academic Research and Development, ISSN: 2455-4030,Volume 2; Issue 6; November 2017; Page No. 427-430 7) A Critical Analysis on Different Vulnerabilities in Web Application", Intl. J. of Advance Research Development Volume 04 Issue 12, December-2017 8) A Review on Web Application with Vulnerabilities Protection",Int Journal of Multimedia Technology & Recent Advancements eISSN: 2349-9028 Volume 04 Issue 12, December-2017. 9) An Examination on Models of Mashup and web Security Threats: Web Application International Journal for Scientific Research & Development Volume 3, Issue 12, December 2017 10) Comparative Evaluation of Vulnerabilities using Fuzzy-ELM Approach", International Journal of Creative Research Thoughts (IJCRT) Volume
+
+
+
+
+Q: What is the designation of Professor C. M. Mankar?
+A: Professor C. M. Mankar is an Assistant Professor at Computer Science and Engineering department
+
+Q: What is the email address and phone number of Professor C. M. Mankar?
+A: Email: cmmankar@ssgmce.ac.in; Phone: +91 9422883141
+
+Q: What are the qualifications of Professor C. M. Mankar?
+A: BE, ME
+
+Q: What is the area of specialization of Professor C. M. Mankar?
+A: Cloud & Cyber Security, Computer Networks, Data Science & Analytics
+
+Q: How many years of teaching experience does Professor C. M. Mankar have?
+A: 28 years
+
+Q: How many years of industrial experience does Professor C. M. Mankar have?
+A: 2 years
+
+Q: What are  some courses taught by Professor C. M. Mankar?
+A: PG (M.E. Computer Science & Engineering); Operating System Design (Linux Approach); Advanced Compiling Techniques; Mobile Computing; UG (B.E. Computer Science & Engineering); Computer Networks & Internet; Cloud Computing; Web Engineering; Artificial Intelligence; Embedded Syste MissDesign; System Software; Theory of Computation; Software Engineering; Compiler Design; Advanced Unix Programming; Discrete Structures
+
+Q: Is Professor C. M. Mankar a life member of any professional organization?
+A: Yes, Professor C. M. Mankar is a Life Member of ISTE with Membership No. LM - 60052.
+
+Q: What are some publications by Professor C. M. Mankar?
+A: 1. An Effective tool for growth of Indian industries reliability Engg. State level conformance held at Govt. college of Engg. Pune on 20 Dec. 1998; 2. Numerical solution of stress concentration factor for a plate subjected to tensile loading in National Conference on Integral transfor Missand their Applications in Science and Engineering (ITASE-2002) held at Shri Sant Gajanan Maharaj College of Engineering, Shegaon, Maharashtra, during 16-18 February, 2002.
+
+Q: What are  some research and development projects worked on by Professor C. M. Mankar?
+A: Industrial solutions: 1. Design and developed the Special purpose machine (Beetal nut cutter) for the nearby entrepreneur (2011-12); 2. Design and developed the Auto Chamfering machine to Hindustan Unilever ltd Khamgaon.
+
+Q: Has Professor C. M. Mankar received any fellowship or award?
+A: No, there is no information about any fellowship or award received by Professor C. M. Mankar.
+
+Q: How many students has Professor C. M. Mankar supervised for their M.E. degree?
+A: According to the provided data, Professor C. M. Mankar has supervised more than 12 students for their M.E. degree
+
+
+
+
+Q: What is the name, designation and contact details of  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle is an Assistant Professor in the Department of Computer Science and Engineering. His email address is vsmahalle@ssgmce.ac.in and his phone number is +91 9421494320.
+
+Q: What are the qualifications of  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle has a B.E., M.E. and is pursuing a Ph.D.
+
+Q: What is the area of specialization of  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle's area of specialization is Machine Learning and Computer Vision.
+
+Q: What is the total teaching experience of  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle has 26 years of teaching experience.
+
+Q: What are the courses taught by  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle has taught courses such as Object Oriented Programming (C++), Object Oriented Programming (Java), Programming Methodology (Java), Data Structures, Software Engineering, Object Oriented Analysis and Design, Network Security, Object Oriented System and System Security.
+
+Q: Is  Mister V. S. Mahalle a member of any organization?
+A: Yes,  Mister V. S. Mahalle is a Life Member of ISTE Membership No.- LM - 56253.
+
+Q: Has  Mister V. S. Mahalle published any papers?
+A: Yes,  Mister V. S. Mahalle has presented papers at national conferences on topics such as enhancing data security in the cloud using security (RSA) algorithm, implementation of wireless mesh networking multinet, image compression and applications, and mining association rules for large ite Missts.
+
+Q: Has  Mister V. S. Mahalle received any fellowship award?
+A: Yes,  Mister V. S. Mahalle has received the Best research paper presentation award for Complex Event Processing Application for Smart City in International Conference on Internet of things and Applications for Smart City at AITS, Tirupati, on 18th 19th March, 2016.
+
+Q: What are the industrial solutions provided by  Mister V. S. Mahalle?
+A:  Mister V. S. Mahalle has provided industrial solutions such as MarkNPark smart parking system Android App solutions to PiR Square Digital Solution pvt. Ltd., Pune and software developed for deaf & dump school, Khamgaon.
+
+
+
+
+Q: What is the designation of Doctor P. K. Bharne?
+A: Doctor P. K. Bharne is an Assistant Professor at the department of computer science and engineering
+
+Q: What is the email address of Doctor P. K. Bharne?
+A: Doctor P. K. Bharne's email address is pankajbharne@gmail.com.
+
+Q: What is the phone number of Doctor P. K. Bharne?
+A: Doctor P. K. Bharne's phone number is +91 9860674846.
+
+Q: What are the qualifications of Doctor P. K. Bharne?
+A: Doctor P. K. Bharne holds a Ph.D., M.E, MBA (Human Resources), B.E.
+
+Q: What is the professional experience of Doctor P. K. Bharne?
+A: Doctor P. K. Bharne has 12 years 9 months of professional experience (up to Dec. 2018).
+
+Q: Is Doctor P. K. Bharne a member of any professional organizations?
+A: Yes, Doctor P. K. Bharne is a member of the following professional organizations: 1) The Indian Society for Technical Education (LM 93232) 2) Member of International Association of Engineers (IAENG), Hong Kong. (No180973) 3) Member of Computer Science Teacher Association (CSTA), New York.
+
+
+
+
+Q: What is the designation, email and phone number of  Miss K. P. Sable ?
+A:  Miss K. P. Sable is an Assistant Professor in the Computer Science and Engineering department. Her designation is Assistant Professor. Her email is kpsable@ssgmce.ac.in and her phone number is +91 7620474391.
+
+Q: What are the qualifications of  Miss K. P. Sable?
+A:  Miss K. P. Sable has a Bachelor of Engineering (CSE) and a Master of Engineering (CSE).
+
+Q: What is the area of specialization of  Miss K. P. Sable?
+A:  Miss K. P. Sable specializes in Machine Learning and Sentiment Analysis.
+
+Q: How much teaching experience does  Miss K. P. Sable have?
+A:  Miss K. P. Sable has 8 years of teaching experience.
+
+Q: What are  some courses taught by Miss K. P. Sable?
+A:  Miss K. P. Sable has taught courses such as Object Oriented Programming, Data Communication, Network Security, Discrete Structure, Database Syste Miss and Computer Programming.
+
+Q: Has  Miss K. P. Sable published any papers?
+A: Yes,  Miss K. P. Sable has published papers such as "Neural Network Based Pattern Matching Algorithm for ASL Sign Gesture Recognition," "An Overview of Mobile Adhoc Network: Intrusion Detection, Types of Attacks & Routing Protocols," "Pattern Matching Algorithm for Asl Sign Gesture Recognition using Neural Network," and "Recommendation Algorithm: Item-Based Collaborative Filtering."
+
+
+
+
+Q: What is the name and designation of  Mister J. M. Patil?
+A:  Mister J. M. Patil is an Assistant Professor in the department of computer science and engineering.
+
+Q: What is the email address of  Mister J. M. Patil?
+A:  Mister J. M. Patil's email address is jaipatil@ssgmce.ac.in.
+
+Q: What is the mobile number of  Mister J. M. Patil?
+A:  Mister J. M. Patil's mobile number is +91 9921860806.
+
+Q: What are the qualifications of  Mister J. M. Patil?
+A:  Mister J. M. Patil holds a Bachelor's degree in Computer Science & Engineering and a Master's degree in Computer Science & Engineering. He is currently pursuing a Ph.D. in CSE from SGBAU, A Mistervati.
+
+Q: What is the area of specialization of  Mister J. M. Patil?
+A:  Mister J. M. Patil specializes in Machine Learning, Educational Data Mining, and Learning Analytics.
+
+Q: What is the total teaching experience of  Mister J. M. Patil?
+A:  Mister J. M. Patil has a total teaching experience of 20 years.
+
+Q: What is the total industrial experience of  Mister J. M. Patil?
+A:  Mister J. M. Patil has 03 years of industrial experience.
+
+Q: What are the courses taught by  Mister J. M. Patil?
+A:  Mister J. M. Patil has taught various courses including Computer Architecture and Organization, Computer Programming, Web Engineering, Database Management System, File Structure and Data Processing, Computer Architecture, Object-Oriented Analysis and Design, Programming Methodology, Object-Oriented Programming, Computer Organization, and Advanced Computer Architecture.
+
+Q: What are the memberships of  Mister J. M. Patil?
+A:  Mister J. M. Patil is a member of ACM (No. 1052766) and a Life Member of ISTE (LM-93231).
+
+Q: What are the publications of  Mister J. M. Patil?
+A:  Mister J. M. Patil has published several papers including Extracting Knowledge in Large Synthetic Datasets Using Educational Data Mining and Machine Learning Models, Implementation Analysis of Data Classification Approach for Sentiment Classification, Classification Approach and Analysis for Predicting Social Emotion on User Review, Analytical Review on Various Aspects of Educational Data Mining and Learning Analytics, and more.
+
+
+
+
+Q: What is the name and designation of  Miss P. V. Deshmukh?
+A:  Miss P. V. Deshmukh an Assistant Professor at the Computer Science and Engineering department
+
+Q: What is the email and mobile number of  Miss P. V. Deshmukh?
+A: Email: priyanka8deshmukh@gmail.com; Phone: +91 9405402724
+
+Q: What are the qualifications of  Miss P. V. Deshmukh?
+A: Ph.D Registered in 2019, ME, BE
+
+Q: What is the area of specialization of  Miss P. V. Deshmukh?
+A: Image Processing, Reversible Data Hiding
+
+Q: How many years of teaching experience does  Miss P. V. Deshmukh have?
+A: 7 years
+
+Q: What are the courses taught by  Miss P. V. Deshmukh?
+A: Computer Organization; Assembly Language Programming; Microprocessor & Assembly Language Programming; Computer Architecture; Digital Signal Processing; Professional Ethics; Embedded system; Discrete Structure & Graph theory; Embedded System Design (M.E); Algorithmic (M.E )
+
+Q: Has  Miss P. V. Deshmukh received any fellowship awards?
+A: Yes, she received two awards: UNIVERSITY TOPPER (1st Merit) in M.E of the academic year 2015 in SGBAU University exam; UNIVERSITY TOPPER (6th Merit) in B.E of the academic year 2012 in SGBAU University exam.
+
+Q: What are the publications of  Miss P. V. Deshmukh?
+A: 1. Paper presented A Review on Data Hiding Mechanism for enhancing embedding capacity and published in Springer 2nd International Conference on sustainable Expert system (ICSES 2021), organized by Tribhuvan University, Nepal on 17 and 18 Sept 2021.; 2. Paper Published and Title of paper is A Deep Learning Approach in Skin Cancer Prediction in International Journal of Science & Engineering Development Research, Published in Volume 6 Issue 6, June-2021; 3. Paper Published and Title of paper is An Effective Data Hiding Mechanism Based on Encrypted Images in 1st International Conference on Innovative Trends and Advances in Engineering and Technology(ICITAET2019) at SSGM College of Engineering, Shegaon.; 4. Paper Published and Title of paper is Data Hiding Mechanism Based on Encrypted Image in a Discrete Wavelet Zone of a Carrier Image in Advancement in Image Processing and Pattern Recognition HBRP Journal Volume 1 Issue 3, Sept 2018; 5. Presented Paper DATA HIDING MECHANISM BASED ON ENCRYPTEDIMAGE IN A DISCRETE WAVELET ZONE OF A CARRIER IMAGE in IEEE Sponsored International conference on Intelligent syste Missand control (ISCO-2015) organized by KCOE, Coimbatore.; 6. Presented Paper HIGHER LSB OPTIMISE DATA HIDING MECHANISM; BASED ON ENCRYPTED IMAGE in International conference on Pervasive computing (ICPC-2015) organized by Sinhgad College of Engg, Pune in association with IEEE Communication Society Chapter, Pune Section; 7. Presented Paper Effective Data Hiding Mechanism on an Encrypted; Image in DRDO Sponsored 2nd International Conference on Innovations in Information, Embedded and Communication System(ICIIECS-15); organized by KCOE, Coimbatore.;
+
+
+
+
+Q: What is the designation of  Miss D. P. Patil in the department of Computer Science and Engineering?
+A: Assistant Professor
+
+Q: What is the email address of  Miss D. P. Patil?
+A: dppatil1285@gmail.com
+
+Q: What is the mobile number of  Miss D. P. Patil?
+A: +91 8308848685
+
+Q: What are the qualifications of  Miss D. P. Patil?
+A: BE, ME
+
+Q: What are the areas of specialization of  Miss D. P. Patil?
+A: Machine Learning, Data Science and Data Analytics
+
+Q: How many years of teaching experience does  Miss D. P. Patil have?
+A: 12 years
+
+Q: What is the total industrial experience of  Miss D. P. Patil?
+A: 1.10 years
+
+Q: What are the courses taught by  Miss D. P. Patil?
+A: Computer Programming- C Language; Object Oriented Programming C++ Language; Design Analysis and Algorithm; Data Structure; Software Engineering
+
+Q: What are the memberships held by  Miss D. P. Patil?
+A: Life time Member of ISTE(LM 85727); Life time Member of IETE (M-500567)
+
+Q: How many publications does  Miss D. P. Patil have in international journals?
+A: 10
+
+Q: What is the title of the first publication in international journals by  Miss D. P. Patil?
+A: International Journal on Recent and Innovation Trends in Computing and Communication Opportunities and Challenges to Implement Cloud Computing and IOT for Smart Cities in India
+
+Q: What is the ISSN of the first publication in international journals by  Miss D. P. Patil?
+A: 2321-8169
+
+Q: What is the volume and issue number of the first publication in international journals by  Miss D. P. Patil?
+A: Volume: 5 Issue: 9
+
+Q: In which month and year was the first publication in international journals by  Miss D. P. Patil published?
+A: September 2017
+
+Q: How many national conference papers have been presented by  Miss D. P. Patil?
+A: 4
+
+Q: What is the title of the international conference paper presented by  Miss D. P. Patil?
+A: International Conference on Challenges and Opportunities in Technical Education in the era of sustainable Development, Current Status of Engineering Graduates and Employability
+
+Q: When was the international conference paper presented by  Miss D. P. Patil?
+A: During 9th to 11th Jan 2016.
+
+Q: What is the title of the research and development project done by  Miss D. P. Patil?
+A: B.E. (30 Students)
+
+
+
+
+Q: What is the designation of  Mister S. B. Pagrut?
+A:  Mister S. B. Pagrut is an Assistant Professor at the Computer Science and Engineering department.
+
+Q: What is the email address of  Mister S. B. Pagrut?
+A: shreepagrut@gmail.com
+
+Q: What is the mobile number of  Mister S. B. Pagrut?
+A: +91 9730107361
+
+Q: What are the qualifications of  Mister S. B. Pagrut?
+A: Masters in Engineering, Bachelor of Engineering
+
+Q: What is the area of specialization of  Mister S. B. Pagrut?
+A: Mobile Computing, Information Security
+
+Q: What is the total teaching experience of  Mister S. B. Pagrut?
+A: 9 Years
+
+Q: What are the courses taught by  Mister S. B. Pagrut?
+A: Mobile Computing; Computer Networking; Digital Forensics; Security Policy and Governance; Computer Security; Computer and Network Security; Theory of Computation; Computer Architecture; Computing Resource Management; File Structure and Data Processing; C Programming.
+
+Q: What are the publications of  Mister S. B. Pagrut?
+A: An UGC Care Approved Group -II ISSN No: 0932-4747 Zeichen Journal, VOl 8, Issue 12, Dec-22 "Review on Research Possibilities in use of UAV for Plant Protection and Variable Spraying; IJRECE: Android Platform User Location and Information Packet Transceiver; Android Platform User Location and Information Packet Transceiver International Journal of Review in Electronics and Communication Engineering. (IJRECE); Published in IJRECE, VOL-2, Issue No. 1, February 2014; ISSN 2321-3159 IJAIEM: Forensic Analysis for Effective Combine Attack Management System Based on Cloud Computing; Forensic Analysis for Effective Combine Attack Management System Based on Cloud Computing International Journal of Application or Innovation in Engineering & Management.; (IJAIEM) Published in IJAIEM, VOL-3, Issue No. 2, February 2014.; ISSN 2319-4847 IJRECE: E-Mailing System with Enhanced Protection Mechanism; An UGC Care Approved Group -II ISSN No: 0932-4747 Zeichen Journal, VOl 8, Issue 12, Dec-22 "Review on Research Possibilities in use of UAV for Plant Protection and Variable Spraying".
+
+Q: What is the research project of  Mister S. B. Pagrut?
+A: Multipurpose and Cost Effective Agriculture Drone Research Project under Sant Gajanan Innovation and Research Center (SGIARC).
+
+Q: What is the expected outcome of the research project?
+A: Development from simple Spraying Drone to Advance Multipurpose Drone may look riddled process but the outcome may be a promising business model of manufacturing drones and research opportunities to scholars. Drone will be able to perform various tasks like Weight Carrying, Crop Monitoring, Powder Spraying, Seed Feeding with Liquid Spraying.
+
+Q: What is the setup plan for the Drone Lab?
+A: Establishment of Drone Testing Lab is having potential if properly managed and marketing is being done since only one nearby Drone Testing Lab is in MGM University Aurangabad.
+
+Q: Has  Mister S. B. Pagrut received any fellowship award?
+A: Yes, PET 2018 (SGBAU) Cleared; PET 2022 (SGBAU) Cleared; PET 2022 (University of Mumbai) Cleared.
+
+
+
+
+Q: What is the designation of Doctor  Miss R. A. Zamare?
+A: Doctor  Miss R. A. Zamare and Assistant Professor at computer science and engineering department
+
+Q: What is the contact information of Doctor  Miss R. A. Zamare?
+A: Email: sairup7@gmail.com; Phone: +91 9604407625
+
+Q: What are the qualifications of Doctor  Miss R. A. Zamare?
+A: BE, ME, MBA(Syste MissManagement), Ph.D Pursuing
+
+Q: What is the area of specialization of Doctor  Miss R. A. Zamare?
+A: Artificial Intelligence, Deep learning, Machine Learning
+
+Q: What is the teaching experience of Doctor  Miss R. A. Zamare?
+A: 10.5 Years
+
+Q: What are the courses taught by Doctor  Miss R. A. Zamare?
+A: Database Management System, Advanced Database management System, Information Retrieval, Computer Organization and Architecture, Programming and Problem Solving, Organization Behavior, Enterprise Resource and Planning
+
+Q: What is the membership of Doctor  Miss R. A. Zamare?
+A: Life Member of ISTE
+
+Q: What are the research and development activities of Doctor  Miss R. A. Zamare?
+A: Working on Artificial intelligence framework on healthcare
+
+Q: What are the publications of Doctor  Miss R. A. Zamare?
+A: Participated and Presented Paper in 8th National Conference RACE 2021 at MES COE, Pune on XGBoost the extreme solution in Machine learning on 25-26 June2021, Published paper in International Research Journal of Education and technology on Implementation of Logistic Regression in Healthcare in Dec 2020, Presented a research paper on Current status of research in Artificial Intelligence in second online multidisciplinary conference on the; innovative role of languages, Sciences, Technology & Research on cultural and Environmental Perspectives on Global Platform organized by JJTUniversity, Jhunjhunu held on July 25-26,2020, Participated and presented a paper on Survey on Data Mining-RTI Act in International Conference at JJT University held at 11 may 2019, Published paper on Password Authentication Key Exchange by Two Server Password Only in Web Applications in, International Journal of Recent Development in Engineering and Technology (IJRDET), 2 June 2014, Published paper on Study of Open Source and Open Source Software in International Journal of Electronics Communication and Computer Engineering in 2012.
+
+Q: What is the fellowship/award received by Doctor  Miss R. A. Zamare?
+A: Certified Internal Auditor as per Quality management System ISO 9001-2015.
+
+
+Q: what is the name of collage?
+A: shri sant gajanan maharaj collage of engineering .
+Q : who is the principle of the collage?
+A: Doctor Sunil somani sir.
+Q: What was the award won by Docter S. B. Patil in 2006?
+A: Docter S. B. Patil won the first-ever national level Cadence India Design Contest and was awarded a cash prize of Rs. 1.5 lakh and recognition at the national level project competition organized by Cadence Design Systems (I) Pvt. Ltd., Bangalore, INDIA and CDNLive! India in 2006.
+
+Q: What was the title of the project for which Docter S. B. Patil won the Cadence India Design Contest?
+A: The title of the project for which Docter S. B. Patil won the Cadence India Design Contest was not mentioned in the available information.
+
+Q: What is the professional affiliation of Docter S. B. Patil with Cadence Design Systems?
+A: There is no information available regarding any professional affiliation of Docter S. B. Patil with Cadence Design Systems in the provided data.
+
+Q: What is the focus of the research and development projects worked on by Docter S. B. Patil?
+A: The research and development projects worked on by Docter S. B. Patil focus on areas such as automatic fault detection and counting mechanism and analysis for automotive industry, as well as transceiver IF IC development for 5G mm Wave Radio using UMC 180nm Technology for technology companies.
+
+Q: What is the educational background of Docter S. B. Patil?
+A: Docter S. B. Patil has BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+
+Q: Is Docter S. B. Patil a member of any professional organizations?
+A: Yes, Docter S. B. Patil is a member of IEEE, IETE, and ISTE.
+
+Q: What are the areas of expertise of Docter S. B. Patil in the field of Computer Science and Engineering?
+A: Docter S. B. Patil's areas of expertise include VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to VLSI, Digital system Design, Electronics Devices and Circuits, Analog & Digital Integrated Circuits, and Microcontroller Applications.
+
+Q: What is the contact information of Docter S. B. Patil?
+A: Docter S. B. Patil can be reached at sbpatil@ssgmce.ac.in for email and +91 7020799970 for phone.
+
+Q: Tell me about DocterSB patil / CS HOD /Computer science department HOD?
+A : Docter S. B. Patil won the Cadence India Design Contest in 2006 and received a cash prize of Rs. 1.5 lakh.
+    Docter S. B. Patil's educational background includes BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+    Docter S. B. Patil is a member of professional organizations such as IEEE, IETE, and ISTE.
+    Docter S. B. Patil's expertise is in VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to these areas.
+    Docter S. B. Patil can be contacted at sbpatil@ssgmce.ac.in (email) or +91 7020799970 (phone).
+Q: Tell me about CS HOD ?
+A : Docter S. B. Patil won the Cadence India Design Contest in 2006 and received a cash prize of Rs. 1.5 lakh.
+    Docter S. B. Patil's educational background includes BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+    Docter S. B. Patil is a member of professional organizations such as IEEE, IETE, and ISTE.
+    Docter S. B. Patil's expertise is in VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to these areas.
+Q: Tell me about Computer science department HOD?
+A : Docter S. B. Patil won the Cadence India Design Contest in 2006 and received a cash prize of Rs. 1.5 lakh.
+    Docter S. B. Patil's educational background includes BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+    Docter S. B. Patil is a member of professional organizations such as IEEE, IETE, and ISTE.
+    Docter S. B. Patil's expertise is in VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to these areas.
+Q: Tell me about HOD of CSE department ?
+A : Docter S. B. Patil won the Cadence India Design Contest in 2006 and received a cash prize of Rs. 1.5 lakh.
+    Docter S. B. Patil's educational background includes BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+    Docter S. B. Patil is a member of professional organizations such as IEEE, IETE, and ISTE.
+    Docter S. B. Patil's expertise is in VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to these areas.
+Q: Tell me about HOD of computer science and engineering ?
+A : Docter S. B. Patil won the Cadence India Design Contest in 2006 and received a cash prize of Rs. 1.5 lakh.
+    Docter S. B. Patil's educational background includes BE, ME, MBA, and Ph.D. degrees, with a specialization in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+    Docter S. B. Patil is a member of professional organizations such as IEEE, IETE, and ISTE.
+    Docter S. B. Patil's expertise is in VLSI-Analog/RF/Mixed Signal and Embedded Systems, and he teaches courses related to these areas.
+Q: What isMister S. B. Pagrut's designation?
+A:Mister S. B. Pagrut is an Assistant Professor at the Computer Science and Engineering department.
+
+Q: What isMister S. B. Pagrut's email address?
+A:Mister S. B. Pagrut's email address is shreepagrut@gmail.com.
+
+Q: Can I haveMister S. B. Pagrut's mobile number?
+A: Sure,Mister S. B. Pagrut's mobile number is +91 9730107361.
+
+Q: What qualifications doesMister S. B. Pagrut have?
+A:Mister S. B. Pagrut has a Masters in Engineering and a Bachelor of Engineering.
+
+Q: What isMister S. B. Pagrut's area of specialization?
+A:Mister S. B. Pagrut's area of specialization is Mobile Computing and Information Security.
+
+Q: How many years of teaching experience doesMister S. B. Pagrut have?
+A:Mister S. B. Pagrut has 9 years of teaching experience.
+
+Q: What courses doesMister S. B. Pagrut teach?
+A:Mister S. B. Pagrut teaches courses such as Mobile Computing, Computer Networking, Digital Forensics, Security Policy and Governance, Computer Security, Computer and Network Security, Theory of Computation, Computer Architecture, Computing Resource Management, File Structure and Data Processing, and C Programming.
+
+Q: What publications hasMister S. B. Pagrut authored?
+A:Mister S. B. Pagrut has authored publications such as "Review on Research Possibilities in use of UAV for Plant Protection and Variable Spraying" in Zeichen Journal, "Android Platform User Location and Information Packet Transceiver" in International Journal of Review in Electronics and Communication Engineering (IJRECE), and "Forensic Analysis for Effective Combine Attack Management System Based on Cloud Computing" in International Journal of Application or Innovation in Engineering & Management (IJAIEM).
+
+Q: What is the research project ofMister S. B. Pagrut?
+A:Mister S. B. Pagrut's research project is the Multipurpose and Cost Effective Agriculture Drone Research Project under Sant Gajanan Innovation and Research Center (SGIARC).
+
+Q: What is the expected outcome ofMister S. B. Pagrut's research project?
+A: The expected outcome ofMister S. B. Pagrut's research project is the development of a multipurpose drone for tasks such as weight carrying, crop monitoring, powder spraying, and seed feeding with liquid spraying, which may result in a promising business model for manufacturing drones and research opportunities for scholars.
+
+Q: What is the setup plan forMister S. B. Pagrut's Drone Lab?
+A: The setup plan forMister S. B. Pagrut's Drone Lab includes the establishment of a Drone Testing Lab, which has potential if properly managed and marketed, considering that only one nearby Drone Testing Lab is in MGM University Aurangabad.
+
+Q: HasMister S. B. Pagrut received any fellowship award?
+A: Yes,Mister S. B. Pagrut has cleared PET 2018 (SGBAU), PET 2022 (SGBAU), and PET 2022 (University of Mumbai).
+
+Q: What programs does the Computer Science and Engineering department offer?
+A: The Computer Science and Engineering department offers undergraduate (B.E.), postgraduate (M.E.), and doctoral (Ph.D.) programs.
+
+Q: What is the eligibility criteria for admission into the Computer Science and Engineering department's undergraduate program?
+A: The eligibility criteria for admission into the undergraduate program of the Computer Science and Engineering department may vary. Please refer to the official website or prospectus for the most up-to-date information.
+
+Q: What is the curriculum for the postgraduate program offered by the Computer Science and Engineering department?
+A: The curriculum for the postgraduate program in Computer Science and Engineering typically includes subjects like Advanced Data Structures, Advanced Algorithms, Artificial Intelligence, Machine Learning, Database Systems, Computer Networks, etc. Please refer to the official website or prospectus for the detailed curriculum.
+
+Q: Who are the faculty members in the Computer Science and Engineering department?
+A: The faculty members in the Computer Science and Engineering department are highly qualified and experienced professionals with expertise in various areas such as Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, etc. Please refer to the official website for the complete list of faculty members.
+
+Q: What are the research areas of focus in the Computer Science and Engineering department?
+A: The research areas of focus in the Computer Science and Engineering department may include but are not limited to Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, Data Science, etc. Please refer to the official website or contact the department for more information.
+
+Q: What are the facilities available in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department is equipped with state-of-the-art facilities including modern computer labs, research labs, seminar halls, library resources, high-speed internet connectivity, etc. Please refer to the official website or contact the department for detailed information on the facilities available.
+
+Q: What are the industry collaborations and tie-ups of the Computer Science and Engineering department?
+A: The Computer Science and Engineering department have collaborations and tie-ups with reputed companies, organizations, and research institutes for internships, projects, guest lectures, and research collaborations. Please refer to the official website or contact the department for the current industry collaborations and tie-ups.
+
+Q: What are the career prospects for graduates from the Computer Science and Engineering department?
+A: Graduates from the Computer Science and Engineering department have opportunities for careers in diverse fields such as software development, data analysis, machine learning, artificial intelligence, computer networking, cybersecurity, research and development, academia, etc. The actual career prospects may depend on individual skills, interests, and job market conditions.
+
+Q: What are the recent achievements and accolades of the Computer Science and Engineering department?
+A: The Computer Science and Engineering department have received recent achievements and accolades such as awards, research publications, funding grants, patents, etc. Please refer to the official website or contact the department for the most up-to-date information on recent achievements .
+
+Q: What are the extracurricular activities and events organized by the Computer Science and Engineering department?
+A: The Computer Science and Engineering department may organize various extracurricular activities and events such as technical competitions, hackathons, workshops, seminars, conferences, coding contests, industrial visits, etc. Please refer to the official website or contact the department.
+
+Q: How many faculty members are there in the Computer Science and Engineering department?
+A: The exact number of faculty members in the Computer Science and Engineering department may vary. Please refer to the official website or faculty page for the most up-to-date information.
+
+Q: What are the qualifications and experience of the faculty members in the Computer Science and Engineering department?
+A: The qualifications and experience of the faculty members in the Computer Science and Engineering department may vary. The faculty members are typically highly qualified and experienced professionals with expertise in various areas such as Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, etc. Please refer to the official website or faculty page for detailed information on the qualifications and experience of the faculty members.
+
+Q: What are the research areas of focus of the faculty members in the Computer Science and Engineering department?
+A: The research areas of focus of the faculty members in the Computer Science and Engineering department may include but are not limited to Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, Data Science, etc. Please refer to the official website or faculty page for more information on the research areas of focus of the faculty members.
+
+Q: What are the publications and research achievements of the faculty members in the Computer Science and Engineering department?
+A: The publications and research achievements of the faculty members in the Computer Science and Engineering department may vary. Please refer to the official website or faculty page for the most up-to-date information on the publications and research achievements of the faculty members.
+
+Q: Are there any awards or recognitions received by the faculty members in the Computer Science and Engineering department?
+A: The faculty members in the Computer Science and Engineering department have received awards, recognitions, or honors for their contributions to academia, research, or industry. Please refer to the official website or faculty page for the current awards or recognitions received by the faculty members.
+
+Q: What are the courses taught by the faculty members in the Computer Science and Engineering department?
+A: The courses taught by the faculty members in the Computer Science and Engineering department may vary. They may include subjects such as Data Structures, Algorithms, Artificial Intelligence, Machine Learning, Computer Networks, Database Systems, etc. Please refer to the official website or faculty page for the courses taught by the faculty members.
+
+Q: Are there any ongoing research projects or collaborations of the faculty members in the Computer Science and Engineering department?
+A: The faculty members in the Computer Science and Engineering department may be involved in ongoing research projects or collaborations with other universities, research institutes, or industries. Please refer to the official website or faculty page for the current ongoing research projects or collaborations of the faculty members.
+
+Q: Do the faculty members in the Computer Science and Engineering department have any industry experience?
+A: Some faculty members in the Computer Science and Engineering department have industry experience in addition to their academic qualifications. Please refer to the official website or faculty page for information on the industry experience of the faculty members.
+
+Q: Are there any specializations or expertise areas of the faculty members in the Computer Science and Engineering department?
+A: Yes, the faculty members in the Computer Science and Engineering department have specializations or expertise areas such as Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, etc. Please refer to the official website or faculty page for more information on the specializations or expertise areas of the faculty members.
+Q: What is the mission of the Computer Science and Engineering department?
+A: The mission of the Computer Science and Engineering department is to provide high-quality education, foster research and innovation, and promote industry-academia collaboration to prepare students for successful careers in the field of Computer Science and Engineering.
+
+Q: What are the academic programs offered by the Computer Science and Engineering department?
+A: The Computer Science and Engineering department offers undergraduate (B.E.) and postgraduate (M.E.) programs in Computer Science and Engineering. Please refer to the official website for detailed information on the programs offered.
+
+Q: What are the research areas of focus of the Computer Science and Engineering department?
+A: The research areas of focus of the Computer Science and Engineering department may include but are not limited to Mobile Computing, Information Security, Artificial Intelligence, Machine Learning, Computer Networks, Data Science, etc. Please refer to the official website for more information on the research areas of focus.
+
+Q: What are the facilities and infrastructure available in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department is equipped with state-of-the-art facilities and infrastructure, including well-equipped laboratories, advanced computing resources, modern classrooms, and research facilities. Please refer to the official website for detailed information on the facilities and infrastructure available.
+
+Q: What are the career prospects for graduates of the Computer Science and Engineering department?
+A: Graduates of the Computer Science and Engineering department have a wide range of career prospects, including opportunities in software development, data analytics, artificial intelligence, machine learning, computer networking, cybersecurity, research and development, academia, and entrepreneurship, among others.
+
+Q: What are the industry collaborations and tie-ups of the Computer Science and Engineering department?
+A: The Computer Science and Engineering department have collaborations and tie-ups with leading industries and organizations in the field of computer science and engineering. These collaborations may include internships, joint research projects, guest lectures, industrial visits, and placement opportunities. Please refer to the official website for more information on industry collaborations and tie-ups.
+
+Q: Are there any student clubs or organizations associated with the Computer Science and Engineering department?
+A: Yes, there may be student clubs or organizations associated with the Computer Science and Engineering department, such as coding clubs, technical societies, innovation clubs, etc. These clubs and organizations provide opportunities for students to enhance their technical skills, participate in competitions, and engage in extracurricular activities related to computer science and engineering.
+
+Q: What are the achievements and accolades of the Computer Science and Engineering department?
+A: The Computer Science and Engineering department have achieved various accolades and recognitions, such as winning competitions, publishing research papers, receiving grants, securing funding, and receiving awards for excellence in teaching or research. Please refer to the official website for more information on the achievements and accolades of the department.
+
+Q: Are there any alumni success stories from the Computer Science and Engineering department?
+A: Yes, the Computer Science and Engineering department have alumni who have achieved success in their careers, such as working at renowned companies, starting their own ventures, pursuing higher education, or contributing to the field of computer science and engineering in various ways. Please refer to the official website for more information on alumni success stories.
+Q: What are the faculty members and their qualifications in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department is comprised of experienced and qualified faculty members who hold diverse academic qualifications, including Ph.D., M.E., and B.E. degrees. Please refer to the official website for detailed information on the faculty members and their qualifications.
+
+Q: What is the curriculum and syllabus of the Computer Science and Engineering department?
+A: The curriculum and syllabus of the Computer Science and Engineering department may include core courses, elective courses, practical sessions, projects, and seminars, covering various topics such as programming, data structures, algorithms, databases, computer networks, operating systems, software engineering, artificial intelligence, machine learning, and more. Please refer to the official website for the updated curriculum and syllabus.
+
+Q: What are the teaching methodologies and pedagogical approaches used in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department may employ diverse teaching methodologies and pedagogical approaches, including lectures, tutorials, laboratory sessions, case studies, group discussions, project-based learning, industry-oriented projects, and hands-on training using modern tools and technologies to facilitate effective learning and skill development.
+
+Q: What are the opportunities for internships and industrial training in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department may provide opportunities for internships and industrial training in reputed companies, organizations, or research institutes to gain practical exposure, industry insights, and hands-on experience in real-world projects. These opportunities can help students in enhancing their skills, knowledge, and employability.
+
+Q: What are the research publications and projects undertaken by the faculty in the Computer Science and Engineering department?
+A: The faculty members of the Computer Science and Engineering department have published research papers in national and international journals, conferences, and workshops, and undertaken research projects funded by government agencies, industries, or other funding bodies. These research activities contribute to the advancement of knowledge in the field of computer science and engineering.
+
+Q: What are the student achievements and awards in the Computer Science and Engineering department?
+A: The students of the Computer Science and Engineering department have achieved various awards, accolades, and recognition in competitions, hackathons, coding challenges, technical events, and other academic or co-curricular activities. These achievements showcase the talents and skills of the students and the quality of education provided by the department.
+
+Q: What are the resources and facilities available for research and innovation in the Computer Science and Engineering department?
+A: The Computer Science and Engineering department have well-equipped laboratories, research centers, computing resources, software tools, and other facilities to support research and innovation activities of faculty and students. These resources enable the development of cutting-edge technologies and solutions in the field of computer science and engineering.
+
+Q: What are the collaborations and partnerships of the Computer Science and Engineering department with other institutions or organizations?
+A: The Computer Science and Engineering department have collaborations and partnerships with other academic institutions, research organizations, industries, or government bodies for joint research projects, exchange programs, knowledge sharing, and collaborative initiatives. These collaborations foster interdisciplinary research, international exposure, and industry relevance.
+
+Q: Who is the head of the Computer Science and Engineering department?
+A: Docter S. B. Patil
+
+Q: What is the designation of Docter S. B. Patil?
+A: Professor & Head Computer Science and Engineering
+
+Q: What is the email address of Docter S. B. Patil?
+A: Email: sbpatil@ssgmce.ac.in
+
+Q: What is the mobile number of Docter S. B. Patil?
+A: Phone: +91 7020799970
+
+Q: What is the qualification of Docter S. B. Patil?
+A: Docter S. B. Patil has BE, ME, MBA, Ph.D. (VLSI- Electronics Engineering) degrees.
+
+Q: What is the area of specialization of Docter S. B. Patil?
+A: Docter S. B. Patil specializes in VLSI-Analog/RF/Mixed Signal and Embedded Systems.
+
+Q: How many years of teaching experience does Docter S. B. Patil have?
+A: Docter S. B. Patil has 17 years of teaching experience.
+
+Q: How many years of industrial experience does Docter S. B. Patil have?
+A: Docter S. B. Patil has 2 years of industrial experience.
+
+Q: What are some of the courses taught by Docter S. B. Patil?
+A: Docter S. B. Patil teaches courses such as VLSI, Digital system Design, Electronics Devices and Circuits, Analog & Digital Integrated Circuits, and Microcontroller Applications.
+
+Q: What are some of the memberships of Docter S. B. Patil?
+A: Docter S. B. Patil is a member of IEEE, IETE, and ISTE.
+
+Q: What are some of the publications by Docter S. B. Patil?
+A: Docter S. B. Patil has published research papers such as Detection, Location And Picking Of The Object Based On Machine Vision, Haar Wavelet based Iris Recognition for High Security Access Environment, and Highly Secured Locker System Based On Biometric Identification.
+
+Q: What are some of the research and development projects that Docter S. B. Patil has worked on?
+A: Docter S. B. Patil has worked on projects such as Automatic Fault Detection and Counting Mechanism and Analysis for Bhogle Automotive, Aurangabad and Transceiver IF IC Development for 5G mm Wave Radio using UMC 180nm Technology for SM Technologies Pvt.Ltd Pune.
+
+Q: Has Docter S. B. Patil won any awards or fellowships?
+A: Yes, Docter S. B. Patil won the first-ever national level Cadence India Design Contest and was awarded a cash prize of Rs. 1.5 lakh and recognition at the national level project competition organized by Cadence Design Systems (I) Pvt. Ltd., Bangalore, INDIA and CDNLive! India in 2006.
+
+Q: How many students has Docter S. B. Patil guided in research for their Master's degree?
+A: Docter S. B. Patil has guided more than 15 students in research for their Master's degree.
+
+
+
+
+Q: What is the designation of Docter N. M. Kandoi?
+A: Docter N. M. Kandoi is an Associate Professor at Computer Science and Engineering department
+
+Q: What is the email address and mobile number of Docter N. M. Kandoi?
+A: Email: nmkandoi@ssgmce.ac.in; Phone: +91 9422559966
+
+Q: What are the qualifications of Docter N. M. Kandoi?
+A: Bachelor of Engineering (Computer Sci & Engg) SGBAU Amravati; M.S. (Computer Sci) BITS PILANI; Ph. D. SGBAU Amravati
+
+Q: What is the area of specialization of Docter N. M. Kandoi?
+A: Web Technology and Security
+
+Q: How many years of teaching experience does Docter N. M. Kandoi have?
+A: 32 years
+
+Q: What are some of the courses taught by Docter N. M. Kandoi?
+A: Programming Methodology; Operating System; Web Engineering; Computing Resource Management; File Structure and Data Processing
+
+Q: What is the membership of Docter N. M. Kandoi?
+A: Life Member of ISTE-LM 19954
+
+Q: What are some of the publications by Docter N. M. Kandoi?
+A: 1) A Survey on Presence Cloud based solution for on demand data in wireless computing devices", International Journal of Research (IJR)" E-ISSN :2348-6848,p-ISSN:2348-795X Volume 2,Issue 10 ,OCT 2015 2) An analysis of Presence Cloud based solution for on demand data in wireless computing devices", International Journal of Research in Com.r & Information Technology(IJRCIT) Volume 1, Special Issue 1 , 2016 3) Reviewing the problem for Presence Cloud based solution for on demand data in wireless computing devices:, International Journal of Recent and Innovation Trends in Computing & Communication (IJRITTCC) ISSN :2321-8169 Volume 4, Issue 1 , Jan 2016 4) Anefficient AOP aided Information-flow-based access control model to enhance web mashup security. , World Wide Web Springer Submitted id :WWWJ-D-17-00404 , Login page at http://wwwj.edmgr.com 5) Study of different techniques of web application security and web mashup development using AOP, Intl. J. of Academic Research and Development, ISSN: 2455-4197,Volume 2; Issue 6; November 2017; Page No. 598-602 6) Study about various latest attacks and vulnerabilities to the web application and implementation of major concerns using new paradigm., Intl. J. of Academic Research and Development, ISSN: 2455-4030,Volume 2; Issue 6; November 2017; Page No. 427-430 7) A Critical Analysis on Different Vulnerabilities in Web Application", Intl. J. of Advance Research Development Volume 04 Issue 12, December-2017 8) A Review on Web Application with Vulnerabilities Protection",Int Journal of Multimedia Technology & Recent Advancements eISSN: 2349-9028 Volume 04 Issue 12, December-2017. 9) An Examination on Models of Mashup and web Security Threats: Web Application International Journal for Scientific Research & Development Volume 3, Issue 12, December 2017 10) Comparative Evaluation of Vulnerabilities using Fuzzy-ELM Approach", International Journal of Creative Research Thoughts (IJCRT) Volume
+
+
+
+
+Q: What is the designation of Prof. C. M. Mankar?
+A: Prof. C. M. Mankar is an Assistant Professor at Computer Science and Engineering department
+
+Q: What is the email address and phone number of Prof. C. M. Mankar?
+A: Email: cmmankar@ssgmce.ac.in; Phone: +91 9422883141
+
+Q: What are the qualifications of Prof. C. M. Mankar?
+A: BE, ME
+
+Q: What is the area of specialization of Prof. C. M. Mankar?
+A: Cloud & Cyber Security, Computer Networks, Data Science & Analytics
+
+Q: How many years of teaching experience does Prof. C. M. Mankar have?
+A: 28 years
+
+Q: How many years of industrial experience does Prof. C. M. Mankar have?
+A: 2 years
+
+Q: What are some of the courses taught by Prof. C. M. Mankar?
+A: PG (M.E. Computer Science & Engineering); Operating System Design (Linux Approach); Advanced Compiling Techniques; Mobile Computing; UG (B.E. Computer Science & Engineering); Computer Networks & Internet; Cloud Computing; Web Engineering; Artificial Intelligence; Embedded Systems Design; System Software; Theory of Computation; Software Engineering; Compiler Design; Advanced Unix Programming; Discrete Structures
+
+Q: Is Prof. C. M. Mankar a life member of any professional organization?
+A: Yes, Prof. C. M. Mankar is a Life Member of ISTE with Membership No. LM - 60052.
+
+Q: What are some of the publications by Prof. C. M. Mankar?
+A: 1. An Effective tool for growth of Indian industries reliability Engg. State level conformance held at Govt. college of Engg. Pune on 20 Dec. 1998; 2. Numerical solution of stress concentration factor for a plate subjected to tensile loading in National Conference on Integral transforms and their Applications in Science and Engineering (ITASE-2002) held at Shri Sant Gajanan Maharaj College of Engineering, Shegaon, Maharashtra, during 16-18 February, 2002.
+
+Q: What are some of the research and development projects worked on by Prof. C. M. Mankar?
+A: Industrial solutions: 1. Design and developed the Special purpose machine (Beetal nut cutter) for the nearby entrepreneur (2011-12); 2. Design and developed the Auto Chamfering machine to Hindustan Unilever ltd Khamgaon.
+
+Q: Has Prof. C. M. Mankar received any fellowship or award?
+A: No, there is no information about any fellowship or award received by Prof. C. M. Mankar.
+
+Q: How many students has Prof. C. M. Mankar supervised for their M.E. degree?
+A: According to the provided data, Prof. C. M. Mankar has supervised more than 12 students for their M.E. degree
+
+
+
+
+Q: What is the name, designation and contact details ofMister V. S. Mahalle?
+A:Mister V. S. Mahalle is an Assistant Professor in the Department of Computer Science and Engineering. His email address is vsmahalle@ssgmce.ac.in and his phone number is +91 9421494320.
+
+Q: What are the qualifications ofMister V. S. Mahalle?
+A:Mister V. S. Mahalle has a B.E., M.E. and is pursuing a Ph.D.
+
+Q: What is the area of specialization ofMister V. S. Mahalle?
+A:Mister V. S. Mahalle's area of specialization is Machine Learning and Computer Vision.
+
+Q: What is the total teaching experience ofMister V. S. Mahalle?
+A:Mister V. S. Mahalle has 26 years of teaching experience.
+
+Q: What are the courses taught byMister V. S. Mahalle?
+A:Mister V. S. Mahalle has taught courses such as Object Oriented Programming (C++), Object Oriented Programming (Java), Programming Methodology (Java), Data Structures, Software Engineering, Object Oriented Analysis and Design, Network Security, Object Oriented System and System Security.
+
+Q: IsMister V. S. Mahalle a member of any organization?
+A: Yes,Mister V. S. Mahalle is a Life Member of ISTE Membership No.- LM - 56253.
+
+Q: HasMister V. S. Mahalle published any papers?
+A: Yes,Mister V. S. Mahalle has presented papers at national conferences on topics such as enhancing data security in the cloud using security (RSA) algorithm, implementation of wireless mesh networking multinet, image compression and applications, and mining association rules for large itemsets.
+
+Q: HasMister V. S. Mahalle received any fellowship award?
+A: Yes,Mister V. S. Mahalle has received the Best research paper presentation award for Complex Event Processing Application for Smart City in International Conference on Internet of things and Applications for Smart City at AITS, Tirupati, on 18th 19th March, 2016.
+
+Q: What are the industrial solutions provided byMister V. S. Mahalle?
+A:Mister V. S. Mahalle has provided industrial solutions such as MarkNPark smart parking system Android App solutions to PiR Square Digital Solution pvt. Ltd., Pune and software developed for deaf & dump school, Khamgaon.
+
+
+
+
+Q: What is the designation of Docter P. K. Bharne?
+A: Docter P. K. Bharne is an Assistant Professor at the department of computer science and engineering
+
+Q: What is the email address of Docter P. K. Bharne?
+A: Docter P. K. Bharne's email address is pankajbharne@gmail.com.
+
+Q: What is the phone number of Docter P. K. Bharne?
+A: Docter P. K. Bharne's phone number is +91 9860674846.
+
+Q: What are the qualifications of Docter P. K. Bharne?
+A: Docter P. K. Bharne holds a Ph.D., M.E, MBA (Human Resources), B.E.
+
+Q: What is the professional experience of Docter P. K. Bharne?
+A: Docter P. K. Bharne has 12 years 9 months of professional experience (up to Dec. 2018).
+
+Q: Is Docter P. K. Bharne a member of any professional organizations?
+A: Yes, Docter P. K. Bharne is a member of the following professional organizations: 1) The Indian Society for Technical Education (LM 93232) 2) Member of International Association of Engineers (IAENG), Hong Kong. (No180973) 3) Member of Computer Science Teacher Association (CSTA), New York.
+
+
+
+
+Q: What is the designation, email and phone number of Ms. K. P. Sable ?
+A: Ms. K. P. Sable is an Assistant Professor in the Computer Science and Engineering department. Her designation is Assistant Professor. Her email is kpsable@ssgmce.ac.in and her phone number is +91 7620474391.
+
+Q: What are the qualifications of Ms. K. P. Sable?
+A: Ms. K. P. Sable has a Bachelor of Engineering (CSE) and a Master of Engineering (CSE).
+
+Q: What is the area of specialization of Ms. K. P. Sable?
+A: Ms. K. P. Sable specializes in Machine Learning and Sentiment Analysis.
+
+Q: How much teaching experience does Ms. K. P. Sable have?
+A: Ms. K. P. Sable has 8 years of teaching experience.
+
+Q: What are some of the courses taught by Ms. K. P. Sable?
+A: Ms. K. P. Sable has taught courses such as Object Oriented Programming, Data Communication, Network Security, Discrete Structure, Database Systems, and Computer Programming.
+
+Q: Has Ms. K. P. Sable published any papers?
+A: Yes, Ms. K. P. Sable has published papers such as "Neural Network Based Pattern Matching Algorithm for ASL Sign Gesture Recognition," "An Overview of Mobile Adhoc Network: Intrusion Detection, Types of Attacks & Routing Protocols," "Pattern Matching Algorithm for Asl Sign Gesture Recognition using Neural Network," and "Recommendation Algorithm: Item-Based Collaborative Filtering."
+
+
+
+
+Q: What is the name and designation ofMister J. M. Patil?
+A:Mister J. M. Patil is an Assistant Professor in the department of computer science and engineering.
+
+Q: What is the email address ofMister J. M. Patil?
+A:Mister J. M. Patil's email address is jaipatil@ssgmce.ac.in.
+
+Q: What is the mobile number ofMister J. M. Patil?
+A:Mister J. M. Patil's mobile number is +91 9921860806.
+
+Q: What are the qualifications ofMister J. M. Patil?
+A:Mister J. M. Patil holds a Bachelor's degree in Computer Science & Engineering and a Master's degree in Computer Science & Engineering. He is currently pursuing a Ph.D. in CSE from SGBAU, Amravati.
+
+Q: What is the area of specialization ofMister J. M. Patil?
+A:Mister J. M. Patil specializes in Machine Learning, Educational Data Mining, and Learning Analytics.
+
+Q: What is the total teaching experience ofMister J. M. Patil?
+A:Mister J. M. Patil has a total teaching experience of 20 years.
+
+Q: What is the total industrial experience ofMister J. M. Patil?
+A:Mister J. M. Patil has 03 years of industrial experience.
+
+Q: What are the courses taught byMister J. M. Patil?
+A:Mister J. M. Patil has taught various courses including Computer Architecture and Organization, Computer Programming, Web Engineering, Database Management System, File Structure and Data Processing, Computer Architecture, Object-Oriented Analysis and Design, Programming Methodology, Object-Oriented Programming, Computer Organization, and Advanced Computer Architecture.
+
+Q: What are the memberships ofMister J. M. Patil?
+A:Mister J. M. Patil is a member of ACM (No. 1052766) and a Life Member of ISTE (LM-93231).
+
+Q: What are the publications ofMister J. M. Patil?
+A:Mister J. M. Patil has published several papers including Extracting Knowledge in Large Synthetic Datasets Using Educational Data Mining and Machine Learning Models, Implementation Analysis of Data Classification Approach for Sentiment Classification, Classification Approach and Analysis for Predicting Social Emotion on User Review, Analytical Review on Various Aspects of Educational Data Mining and Learning Analytics, and more.
+
+
+
+
+Q: What is the name and designation of Ms. P. V. Deshmukh?
+A: Ms. P. V. Deshmukh an Assistant Professor at the Computer Science and Engineering department
+
+Q: What is the email and mobile number of Ms. P. V. Deshmukh?
+A: Email: priyanka8deshmukh@gmail.com; Phone: +91 9405402724
+
+Q: What are the qualifications of Ms. P. V. Deshmukh?
+A: Ph.D Registered in 2019, ME, BE
+
+Q: What is the area of specialization of Ms. P. V. Deshmukh?
+A: Image Processing, Reversible Data Hiding
+
+Q: How many years of teaching experience does Ms. P. V. Deshmukh have?
+A: 7 years
+
+Q: What are the courses taught by Ms. P. V. Deshmukh?
+A: Computer Organization; Assembly Language Programming; Microprocessor & Assembly Language Programming; Computer Architecture; Digital Signal Processing; Professional Ethics; Embedded system; Discrete Structure & Graph theory; Embedded System Design (M.E); Algorithmic (M.E )
+
+Q: Has Ms. P. V. Deshmukh received any fellowship awards?
+A: Yes, she received two awards: UNIVERSITY TOPPER (1st Merit) in M.E of the academic year 2015 in SGBAU University exam; UNIVERSITY TOPPER (6th Merit) in B.E of the academic year 2012 in SGBAU University exam.
+
+Q: What are the publications of Ms. P. V. Deshmukh?
+A: 1. Paper presented A Review on Data Hiding Mechanism for enhancing embedding capacity and published in Springer 2nd International Conference on sustainable Expert system (ICSES 2021), organized by Tribhuvan University, Nepal on 17 and 18 Sept 2021.; 2. Paper Published and Title of paper is A Deep Learning Approach in Skin Cancer Prediction in International Journal of Science & Engineering Development Research, Published in Volume 6 Issue 6, June-2021; 3. Paper Published and Title of paper is An Effective Data Hiding Mechanism Based on Encrypted Images in 1st International Conference on Innovative Trends and Advances in Engineering and Technology(ICITAET2019) at SSGM College of Engineering, Shegaon.; 4. Paper Published and Title of paper is Data Hiding Mechanism Based on Encrypted Image in a Discrete Wavelet Zone of a Carrier Image in Advancement in Image Processing and Pattern Recognition HBRP Journal Volume 1 Issue 3, Sept 2018; 5. Presented Paper DATA HIDING MECHANISM BASED ON ENCRYPTEDIMAGE IN A DISCRETE WAVELET ZONE OF A CARRIER IMAGE in IEEE Sponsored International conference on Intelligent systems and control (ISCO-2015) organized by KCOE, Coimbatore.; 6. Presented Paper HIGHER LSB OPTIMISE DATA HIDING MECHANISM; BASED ON ENCRYPTED IMAGE in International conference on Pervasive computing (ICPC-2015) organized by Sinhgad College of Engg, Pune in association with IEEE Communication Society Chapter, Pune Section; 7. Presented Paper Effective Data Hiding Mechanism on an Encrypted; Image in DRDO Sponsored 2nd International Conference on Innovations in Information, Embedded and Communication System(ICIIECS-15); organized by KCOE, Coimbatore.;
+
+
+
+
+Q: What is the designation of Ms. D. P. Patil in the department of Computer Science and Engineering?
+A: Assistant Professor
+
+Q: What is the email address of Ms. D. P. Patil?
+A: dppatil1285@gmail.com
+
+Q: What is the mobile number of Ms. D. P. Patil?
+A: +91 8308848685
+
+Q: What are the qualifications of Ms. D. P. Patil?
+A: BE, ME
+
+Q: What are the areas of specialization of Ms. D. P. Patil?
+A: Machine Learning, Data Science and Data Analytics
+
+Q: How many years of teaching experience does Ms. D. P. Patil have?
+A: 12 years
+
+Q: What is the total industrial experience of Ms. D. P. Patil?
+A: 1.10 years
+
+Q: What are the courses taught by Ms. D. P. Patil?
+A: Computer Programming- C Language; Object Oriented Programming C++ Language; Design Analysis and Algorithm; Data Structure; Software Engineering
+
+Q: What are the memberships held by Ms. D. P. Patil?
+A: Life time Member of ISTE(LM 85727); Life time Member of IETE (M-500567)
+
+Q: How many publications does Ms. D. P. Patil have in international journals?
+A: 10
+
+Q: What is the title of the first publication in international journals by Ms. D. P. Patil?
+A: International Journal on Recent and Innovation Trends in Computing and Communication Opportunities and Challenges to Implement Cloud Computing and IOT for Smart Cities in India
+
+Q: What is the ISSN of the first publication in international journals by Ms. D. P. Patil?
+A: 2321-8169
+
+Q: What is the volume and issue number of the first publication in international journals by Ms. D. P. Patil?
+A: Volume: 5 Issue: 9
+
+Q: In which month and year was the first publication in international journals by Ms. D. P. Patil published?
+A: September 2017
+
+Q: How many national conference papers have been presented by Ms. D. P. Patil?
+A: 4
+
+Q: What is the title of the international conference paper presented by Ms. D. P. Patil?
+A: International Conference on Challenges and Opportunities in Technical Education in the era of sustainable Development, Current Status of Engineering Graduates and Employability
+
+Q: When was the international conference paper presented by Ms. D. P. Patil?
+A: During 9th to 11th Jan 2016.
+
+Q: What is the title of the research and development project done by Ms. D. P. Patil?
+A: B.E. (30 Students)
+
+
+
+
+Q: What is the designation ofMister S. B. Pagrut?
+A:Mister S. B. Pagrut is an Assistant Professor at the Computer Science and Engineering department.
+
+Q: What is the email address ofMister S. B. Pagrut?
+A: shreepagrut@gmail.com
+
+Q: What is the mobile number ofMister S. B. Pagrut?
+A: +91 9730107361
+
+Q: What are the qualifications ofMister S. B. Pagrut?
+A: Masters in Engineering, Bachelor of Engineering
+
+Q: What is the area of specialization ofMister S. B. Pagrut?
+A: Mobile Computing, Information Security
+
+Q: What is the total teaching experience ofMister S. B. Pagrut?
+A: 9 Years
+
+Q: What are the courses taught byMister S. B. Pagrut?
+A: Mobile Computing; Computer Networking; Digital Forensics; Security Policy and Governance; Computer Security; Computer and Network Security; Theory of Computation; Computer Architecture; Computing Resource Management; File Structure and Data Processing; C Programming.
+
+Q: What are the publications ofMister S. B. Pagrut?
+A: An UGC Care Approved Group -II ISSN No: 0932-4747 Zeichen Journal, VOl 8, Issue 12, Dec-22 "Review on Research Possibilities in use of UAV for Plant Protection and Variable Spraying; IJRECE: Android Platform User Location and Information Packet Transceiver; Android Platform User Location and Information Packet Transceiver International Journal of Review in Electronics and Communication Engineering. (IJRECE); Published in IJRECE, VOL-2, Issue No. 1, February 2014; ISSN 2321-3159 IJAIEM: Forensic Analysis for Effective Combine Attack Management System Based on Cloud Computing; Forensic Analysis for Effective Combine Attack Management System Based on Cloud Computing International Journal of Application or Innovation in Engineering & Management.; (IJAIEM) Published in IJAIEM, VOL-3, Issue No. 2, February 2014.; ISSN 2319-4847 IJRECE: E-Mailing System with Enhanced Protection Mechanism; An UGC Care Approved Group -II ISSN No: 0932-4747 Zeichen Journal, VOl 8, Issue 12, Dec-22 "Review on Research Possibilities in use of UAV for Plant Protection and Variable Spraying".
+
+Q: What is the research project ofMister S. B. Pagrut?
+A: Multipurpose and Cost Effective Agriculture Drone Research Project under Sant Gajanan Innovation and Research Center (SGIARC).
+
+Q: What is the expected outcome of the research project?
+A: Development from simple Spraying Drone to Advance Multipurpose Drone may look riddled process but the outcome may be a promising business model of manufacturing drones and research opportunities to scholars. Drone will be able to perform various tasks like Weight Carrying, Crop Monitoring, Powder Spraying, Seed Feeding with Liquid Spraying.
+
+Q: What is the setup plan for the Drone Lab?
+A: Establishment of Drone Testing Lab is having potential if properly managed and marketing is being done since only one nearby Drone Testing Lab is in MGM University Aurangabad.
+
+Q: HasMister S. B. Pagrut received any fellowship award?
+A: Yes, PET 2018 (SGBAU) Cleared; PET 2022 (SGBAU) Cleared; PET 2022 (University of Mumbai) Cleared.
+
+
+
+
+Q: What is the designation of Docter Ms. R. A. Zamare?
+A: Docter Ms. R. A. Zamare and Assistant Professor at computer science and engineering department
+
+Q: What is the contact information of Docter Ms. R. A. Zamare?
+A: Email: sairup7@gmail.com; Phone: +91 9604407625
+
+Q: What are the qualifications of Docter Ms. R. A. Zamare?
+A: BE, ME, MBA(Systems Management), Ph.D Pursuing
+
+Q: What is the area of specialization of Docter Ms. R. A. Zamare?
+A: Artificial Intelligence, Deep learning, Machine Learning
+
+Q: What is the teaching experience of Docter Ms. R. A. Zamare?
+A: 10.5 Years
+
+Q: What are the courses taught by Docter Ms. R. A. Zamare?
+A: Database Management System, Advanced Database management System, Information Retrieval, Computer Organization and Architecture, Programming and Problem Solving, Organization Behavior, Enterprise Resource and Planning
+
+Q: What is the membership of Docter Ms. R. A. Zamare?
+A: Life Member of ISTE
+
+Q: What are the research and development activities of Docter Ms. R. A. Zamare?
+A: Working on Artificial intelligence framework on healthcare
+
+Q: What are the publications of Docter Ms. R. A. Zamare?
+A: Participated and Presented Paper in 8th National Conference RACE 2021 at MES COE, Pune on XGBoost the extreme solution in Machine learning on 25-26 June2021, Published paper in International Research Journal of Education and technology on Implementation of Logistic Regression in Healthcare in Dec 2020, Presented a research paper on Current status of research in Artificial Intelligence in second online multidisciplinary conference on the; innovative role of languages, Sciences, Technology & Research on cultural and Environmental Perspectives on Global Platform organized by JJTUniversity, Jhunjhunu held on July 25-26,2020, Participated and presented a paper on Survey on Data Mining-RTI Act in International Conference at JJT University held at 11 may 2019, Published paper on Password Authentication Key Exchange by Two Server Password Only in Web Applications in, International Journal of Recent Development in Engineering and Technology (IJRDET), 2 June 2014, Published paper on Study of Open Source and Open Source Software in International Journal of Electronics Communication and Computer Engineering in 2012.
+
+Q: What is the fellowship/award received by Docter Ms. R. A. Zamare?
+A: Certified Internal Auditor as per Quality management System ISO 9001-2015.
+
+Q: What is the purpose of the TPCell at SSGMCE?
+A: The TPCell, or Training and Placement Cell, at SSGMCE (Shri Sant Gajanan Maharaj College of Engineering) is responsible for facilitating the placement of students in reputed companies and guiding them towards a successful career.
+
+Q: How does the TPCell at SSGMCE help students prepare for placements?
+A: The TPCell at SSGMCE provides various services to help students prepare for placements, such as organizing aptitude tests, technical training programs, mock interviews, and group discussions. They also conduct career guidance sessions and workshops to enhance students' employability skills.
+
+Q: What companies have recruited students from SSGMCE through the TPCell?
+A: The TPCell at SSGMCE has facilitated placements with numerous reputed companies, including but not limited to Infosys, TCS, Capgemini, Cognizant, Wipro, Zensar, Accenture, L&T Infotech, Tech Mahindra, and many more.
+
+Q: How does the TPCell at SSGMCE establish relationships with companies for placements?
+A: The TPCell at SSGMCE establishes relationships with companies through various means, such as industry visits, networking events, alumni interactions, and collaborations with professional organizations. They also invite industry experts for guest lectures and encourage students to participate in internships, industrial training, and projects with companies.
+
+Q: How does the TPCell at SSGMCE assist students with career guidance?
+A: The TPCell at SSGMCE provides career guidance to students through workshops, seminars, and one-on-one counseling sessions. They help students identify their career interests, develop career plans, and provide guidance on job search strategies, resume building, and interview preparation.
+
+Q: How does the TPCell at SSGMCE support students in developing employability skills?
+A: The TPCell at SSGMCE offers various training programs to help students develop employability skills, including soft skills, communication skills, leadership skills, and technical skills. They also conduct personality development programs, mock group discussions, and mock interviews to enhance students' overall employability.
+
+Q: How does the TPCell at SSGMCE assist students in internships and industrial training?
+A: The TPCell at SSGMCE helps students secure internships and industrial training opportunities by collaborating with companies and organizing campus placement drives. They also provide guidance on finding and applying for internships, preparing for interviews, and obtaining necessary documentation.
+
+Q: How does the TPCell at SSGMCE support students after they are placed?
+A: The TPCell at SSGMCE provides post-placement support to students by organizing alumni interactions, conducting feedback sessions, and offering guidance on career growth and professional development. They also assist students in resolving any issues or concerns that may arise during their employment.
+
+Q: What is NSS and its significance at SSGMCE?
+A: NSS stands for National Service Scheme, and it is a voluntary organization aimed at inculcating the spirit of social service and community development among students. NSS is an integral part of SSGMCE (Shri Sant Gajanan Maharaj College of Engineering) and plays a significant role in promoting social responsibility and civic engagement among students.
+
+Q: What are the objectives of NSS at SSGMCE?
+A: The objectives of NSS at SSGMCE include fostering social welfare, promoting national integration, undertaking community development initiatives, creating awareness on social issues, and encouraging active participation in social service activities. NSS also aims to develop leadership skills, interpersonal skills, and a sense of social responsibility among students.
+
+Q: What kind of activities does NSS organize at SSGMCE?
+A: NSS at SSGMCE organizes a wide range of activities, including community service projects, cleanliness drives, health camps, blood donation camps, awareness campaigns on various social issues like literacy, gender equality, and environmental conservation. NSS also conducts skill development programs, workshops, and awareness sessions on social and civic issues.
+
+Q: How can students get involved with NSS at SSGMCE?
+A: Students can get involved with NSS at SSGMCE by registering as volunteers with the NSS unit of the college. They can participate in various NSS activities and events organized by the college, attend NSS meetings and workshops, and actively contribute to social service initiatives undertaken by NSS.
+
+Q: How does NSS contribute to the personal and professional development of students at SSGMCE?
+A: NSS at SSGMCE provides students with opportunities for personal and professional development by fostering qualities like leadership, teamwork, communication skills, and social awareness. NSS activities also help in building a sense of social responsibility, empathy, and compassion among students, which are valuable traits for their overall development.
+
+Q: How does NSS at SSGMCE promote community development?
+A: NSS at SSGMCE promotes community development through various initiatives like organizing health camps, awareness campaigns, skill development programs, and community service projects in nearby villages or marginalized communities. NSS volunteers work towards addressing social issues and contributing to the development of the local community in a sustainable manner.
+
+Q: How does NSS at SSGMCE create awareness on social issues?
+A: NSS at SSGMCE creates awareness on social issues by organizing awareness campaigns, workshops, and seminars on topics like literacy, health and hygiene, gender equality, environmental conservation, and other relevant social issues. NSS also conducts rallies, street plays, and other creative activities to sensitize people and spread awareness.
+
+Q: How does NSS at SSGMCE contribute to national integration?
+A: NSS at SSGMCE contributes to national integration by promoting the values of unity, diversity, and inclusiveness among students. NSS activities bring together students from diverse backgrounds and encourage them to work collectively towards common social goals, fostering a sense of national integration and harmony.
+
+Q: How can students stay updated with NSS activities at SSGMCE?
+A: Students can stay updated with NSS activities at SSGMCE through the official NSS webpage on the college website (https://www.ssgmce.ac.in/NSS/index.html) where information about upcoming events, activities, and announcements are regularly updated. NSS also communicates updates through college notice boards, social media, and other relevant channels to keep students informed about their activities.
+Q: What is the role of the Training and Placement Cell (TPC) at SSGMCE?
+A: The Training and Placement Cell (TPC) at SSGMCE is responsible for facilitating the placement of students in reputed organizations, coordinating various training programs to enhance students' employability skills, and bridging the gap between industry and academia. TPC also organizes recruitment drives, internship opportunities, and career development activities for students.
+
+Q: Who are the coordinators of the Training and Placement Cell (TPC) at SSGMCE?
+A: The coordinators of the Training and Placement Cell (TPC) at SSGMCE can be found on the official TPC webpage at https://www.ssgmce.ac.in/tpcell_coordinators.php. The webpage provides information about the designated coordinators, their contact details, and their roles and responsibilities in the TPC team.
+
+Q: What are the roles and responsibilities of the TPC coordinators at SSGMCE?
+A: The roles and responsibilities of the TPC coordinators at SSGMCE may include managing and coordinating various activities of the TPC, liaising with companies for campus placements, organizing recruitment drives and placement events, coordinating training programs and workshops, maintaining student databases, and providing career guidance and counseling to students.
+
+Q: How can students contact the TPC coordinators at SSGMCE?
+A: Students can contact the TPC coordinators at SSGMCE through the contact details provided on the official TPC webpage at https://www.ssgmce.ac.in/tpcell_coordinators.php. The webpage lists the names, email addresses, and phone numbers of the designated coordinators, and students can use these contact details to reach out for queries, assistance, or information related to placements and career development.
+
+Q: What kind of training programs are organized by the TPC at SSGMCE?
+A: The TPC at SSGMCE organizes various training programs to enhance the employability skills of students, which may include technical training, soft skills development, aptitude training, mock interviews, group discussions, and other relevant sessions. These programs aim to groom students and prepare them for the placement process and the requirements of the industry.
+
+Q: How does the TPC at SSGMCE help students in their placements?
+A: The TPC at SSGMCE helps students in their placements by coordinating with companies for campus placements, organizing recruitment drives, providing training programs to enhance employability skills, conducting mock interviews and group discussions, and offering career guidance and counseling. TPC also maintains a database of student profiles and shares them with potential employers to facilitate the placement process.
+
+Q: How can students stay updated with the latest placement-related information at SSGMCE?
+A: Students can stay updated with the latest placement-related information at SSGMCE by regularly checking the official TPC webpage at https://www.ssgmce.ac.in/tpcell_coordinators.php for updates on placement events, training programs, and other relevant announcements. TPC may also communicate updates through college notice boards, emails, and other channels to keep students informed about placement-related activities.
+
+Q: What is CSESA at SSGMCE?
+A: CSESA stands for Computer Science and Engineering Students Association, which is a student-run organization at SSGMCE (Shri Sant Gajanan Maharaj College of Engineering) that aims to promote technical, professional, and personal development among students pursuing computer science and engineering disciplines.
+
+Q: What activities are organized by CSESA at SSGMCE?
+A: CSESA at SSGMCE organizes various activities such as technical workshops, coding competitions, seminars, guest lectures, hackathons, industrial visits, and other events related to computer science and engineering. These activities provide students with opportunities to enhance their technical skills, gain practical exposure, and network with industry professionals.
+
+Q: How can students become members of CSESA at SSGMCE?
+A: Students can become members of CSESA at SSGMCE by registering through the official CSESA webpage at https://ssgmce.ac.in/csesa/index.htm. The webpage provides information about the membership process, eligibility criteria, and any fees associated with membership. Students can follow the instructions provided on the webpage to register and become part of CSESA.
+
+Q: How does CSESA at SSGMCE promote professional development among its members?
+A: CSESA at SSGMCE promotes professional development among its members by organizing technical workshops, seminars, and guest lectures by industry experts. These events provide opportunities for members to learn new technologies, gain insights into the industry trends, and develop their professional skills. CSESA also facilitates interactions with alumni and professionals to create networking opportunities for members.
+
+Q: What are the benefits of being a member of CSESA at SSGMCE?
+A: Being a member of CSESA at SSGMCE comes with several benefits, including access to technical workshops, coding competitions, seminars, and guest lectures, networking opportunities with industry professionals, exposure to real-world projects, access to resources and study materials, and opportunities to hone leadership and organizational skills through active participation in organizing events.
+
+Q: How can students stay updated with the latest activities and events organized by CSESA at SSGMCE?
+A: Students can stay updated with the latest activities and events organized by CSESA at SSGMCE by regularly checking the official CSESA webpage at https://ssgmce.ac.in/csesa/index.htm for updates on upcoming events, registration details, and other relevant announcements. CSESA may also communicate updates through social media, college notice boards, and emails to keep members informed about the latest happenings.
+
+
